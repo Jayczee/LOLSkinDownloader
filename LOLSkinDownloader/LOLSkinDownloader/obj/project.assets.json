@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\83559\\Desktop\\代码\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader.csproj",
+      "projectUniqueName": "C:\\Users\\83559\\Desktop\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader.csproj",
       "projectName": "LOLSkinDownloader",
-      "projectPath": "C:\\Users\\83559\\Desktop\\代码\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader.csproj",
+      "projectPath": "C:\\Users\\83559\\Desktop\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader.csproj",
       "packagesPath": "C:\\Users\\83559\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\83559\\Desktop\\代码\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader\\obj\\",
+      "outputPath": "C:\\Users\\83559\\Desktop\\LOLSkinDownloader\\LOLSkinDownloader\\LOLSkinDownloader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
